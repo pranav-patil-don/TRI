@@ -1,0 +1,7 @@
+{
+  "name": "TriMaster 2027",
+  "description": "Sprint triathlon training planner and live Google Sheets generator for sub-1:10:00 finish by Dec 31, 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
